@@ -1,0 +1,15 @@
+{
+  "name": "thal",
+  "version": "1.0.0",
+  "description": "Web Scraping with Puppeteer and Chrome Headless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiccup1991/thal.git"
+  },
+  "author": "hiccup1991",
+  "license": "ISC"
+}
