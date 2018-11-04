@@ -11,5 +11,9 @@
     "url": "git+https://github.com/hiccup1991/thal.git"
   },
   "author": "hiccup1991",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.3.9",
+    "puppeteer": "^1.10.0"
+  }
 }
